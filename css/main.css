@@ -1,0 +1,27 @@
+.box {
+  float: left;
+  height: 50px;
+  width:10000px;
+  margin-bottom: 15px;
+  clear: both;
+}
+
+.navy {
+  background-color: #000080;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
