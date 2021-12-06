@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+<body>
+
+
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:2000px;margin-top:46px">
+
+  <!-- Automatic Slideshow Images -->
+  <div class="mySlides w3-display-container w3-center">
+    <img src="/w3images/la.jpg" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3>Los Angeles</h3>
+      <p><b>We had the best time playing at Venice Beach!</b></p>   
+    </div>
+  </div>
+ <!-- the band -->
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+    <h2 class="w3-wide">THE QUESTION</h2>
+    <p class="w3-opacity"><i>When Does School End?</i></p>
+    <p class="w3-justify"><p>
+</p>
+End of schoolday <div class="timer" data-h="15" data-m="10" data-s="0"></div>
+<p>
+</p>
+End of 1st period <div class="timer" data-h="10" data-m="0" data-s="0"></div>
+<p>
+</p>
+End of 1st period (Wednesday after AKO) <div class="timer" data-h="10" data-m="25" data-s="0"></div>
+<p>
+</p>
+End of 2nd period <div class="timer" data-h="11" data-m="45" data-s="0"></div>
+<p>
+</p>
+End of 3rd period <div class="timer" data-h="13" data-m="50" data-s="0"></div>
+<p>
+</p>
+End of School (14th of December 12:00 AM) <p id="demo"></p> </p>
+    
+<!-- End Page Content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
+ Source for scripts: <a href=https://www.w3schools.com/howto/howto_js_countdown.asp> W3schools countdown<a> <a href=https://stackoverflow.com/a/70192337/17566179> Stack Overflow: Awnser to my question </a>
+
+<script src="js/timer.js">
+</script>
+</body>
+
+</footer>
+
+</body>
+</html>
