@@ -39,6 +39,10 @@
  .smalltext {
    font-size: small;
    font-weight: lighter;
-   border-width: 1px;
-   border-color: black;
  }
+
+ .topleftlogo { 
+  float: left; 
+  width: 300px; 
+  padding: 10px; 
+} 
