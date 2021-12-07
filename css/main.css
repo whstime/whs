@@ -33,9 +33,12 @@
 
 
  .mediumtext {
-  font-size: medium;
+  font-size: x-large;
  }
 
  .smalltext {
    font-size: small;
+   font-weight: lighter;
+   border-width: 1px;
+   border-color: black;
  }
