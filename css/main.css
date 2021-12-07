@@ -54,3 +54,9 @@
 .hyperlink {
 color: #0066CC;
 }
+
+.topmiddle {
+ position: relative;
+  top: 85%;
+ text-align: center;
+}
