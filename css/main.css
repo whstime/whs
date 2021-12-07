@@ -27,7 +27,7 @@
 }
 
 .largetext {
- font-size: large;
+ font-size: xx-large;
  font-weight: bold;
 }
 
@@ -45,7 +45,6 @@
   position: absolute;
   top: 8px;
   left: 16px;
-  font-size: 18px;
 }
 
 .container {
