@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'archiveregular';
+    src: url('main\font\archivewebfontkit\archive-regular-webfont.woff2') format('woff2'),
+         url('main\font\archivewebfontkit\archive-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
