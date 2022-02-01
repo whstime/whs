@@ -25,7 +25,7 @@ function countdown(elm) {
   document.querySelectorAll('.timer').forEach(countdown)
 
   
-var countDownDate = new Date("Dec 14, 2021 00:00:00").getTime();
+var countDownDate = new Date("Dec 14, 2022 00:00:00").getTime();
 
 var x = setInterval(function() {
 
