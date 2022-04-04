@@ -77,9 +77,13 @@ color: #0066CC;
 .footer {
   left: 0;
   bottom: 0;
+  right: 0;
   width: 100%;
   background-color: rgb(61, 61, 61);
   color: rgb(255, 255, 255);
   text-align: center;
-  padding: 80px;
+}
+
+.imgcenter {
+  margin-bottom: 25%;
 }
